@@ -1,0 +1,49 @@
+body {
+  font-family: Arial;
+  background: #0b1220;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #22c55e;
+}
+
+.section {
+  background: #111827;
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+.eco { background: #22c55e; }
+.fast { background: #f59e0b; }
+.balanced { background: #3b82f6; }
+
+pre {
+  white-space: pre-wrap;
+}
+
+#loginScreen {
+  text-align: center;
+  margin-top: 100px;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+}
